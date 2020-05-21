@@ -1,2 +1,0 @@
-# TaskProjects
-Tasks from theacher
